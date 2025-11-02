@@ -129,6 +129,7 @@ pip install uv
 ```
 clone fork 后的仓库，并使用 uv 搭建环境：
 ```bash
+# 注意 your_name 要替换为你的github用户名！
 git clone https://github.com/your_name/RAG-GroupWork.git
 cd RAG-GroupWork
 uv sync
